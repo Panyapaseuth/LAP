@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12357854258",
+    "project_id": "lap-wallet",
+    "storage_bucket": "lap-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12357854258:android:bfd54e6f6fdcf04ec7082b",
+        "android_client_info": {
+          "package_name": "com.example.LAP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12357854258-6882os6kslthk3n017ojlmo2c935iej2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQuspTFw8C9ak2PRNRSiFEzYL1trqZ1TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12357854258-6882os6kslthk3n017ojlmo2c935iej2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
